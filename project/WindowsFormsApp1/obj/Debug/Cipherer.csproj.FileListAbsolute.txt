@@ -1,0 +1,12 @@
+C:\Users\Жан\Documents\Visual Studio 2017\Projects\project\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+C:\Users\Жан\Documents\Visual Studio 2017\Projects\project\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+C:\Users\Жан\Documents\Visual Studio 2017\Projects\project\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+C:\Users\Жан\Documents\Visual Studio 2017\Projects\project\WindowsFormsApp1\bin\Debug\ru-KZ\WindowsFormsApp1.resources.dll
+C:\Users\Жан\Documents\Visual Studio 2017\Projects\project\WindowsFormsApp1\obj\Debug\Cipherer.csprojResolveAssemblyReference.cache
+C:\Users\Жан\Documents\Visual Studio 2017\Projects\project\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Cipherer.resources
+C:\Users\Жан\Documents\Visual Studio 2017\Projects\project\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+C:\Users\Жан\Documents\Visual Studio 2017\Projects\project\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Cipherer.ru-KZ.resources
+C:\Users\Жан\Documents\Visual Studio 2017\Projects\project\WindowsFormsApp1\obj\Debug\Cipherer.csproj.GenerateResource.Cache
+C:\Users\Жан\Documents\Visual Studio 2017\Projects\project\WindowsFormsApp1\obj\Debug\ru-KZ\WindowsFormsApp1.resources.dll
+C:\Users\Жан\Documents\Visual Studio 2017\Projects\project\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+C:\Users\Жан\Documents\Visual Studio 2017\Projects\project\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
